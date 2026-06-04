@@ -4,3 +4,9 @@ downloads
 dist
 build
 .vscode
+
+*.txt
+*.srt
+*.vtt
+*.tsv
+*.json
